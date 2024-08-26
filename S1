@@ -5,7 +5,9 @@ green:
    id:10
   red:
    id:20
- blue:
+ yellow:
+     id:30
+     blue:
  2: [ 10 ]
 ports:
  1: [ 20 ]
